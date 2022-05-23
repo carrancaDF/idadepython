@@ -1,0 +1,19 @@
+ano = int(input("Que ano você nasceu? "))
+idade = 2022 - ano
+
+if idade >=120:
+   print("Caralho! Vai pro Guiness!")
+elif idade >=18:
+   print("Você é adulto, fidirapariga!")
+elif idade >=12:
+   print("Tu é adulescente, e fecha o xvideos!")
+elif idade >=0:
+   print("Tu é criança, cotoco! Aproveita!")
+else:
+   print("Você ainda não existe, guenta aí!")
+
+
+
+
+
+
